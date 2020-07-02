@@ -53,11 +53,9 @@ h1{
     width: 90%;
     float: none;
     margin-top: 2%;
-    font-size: 16px;
   }
   .full:last-child{
     width: 90%;
     margin-top: 2%;
-    font-size: 16px;
   }
 }
