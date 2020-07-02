@@ -16,12 +16,12 @@ h1{
   background-color: #f1f1f1;
   border: 2px solid black;
   overflow: hidden;
-  font-size: 16px;
 }
 .full p{
   padding: 40px 20px 20px 20px;
   margin-block-end: 0;
   margin-block-start: 0;
+  font-size: 16px;
 }
 
 .box p{
@@ -39,10 +39,12 @@ h1{
   .full{
     width: 45%;
     margin-bottom: 20px;
+    font-size: 16px;
   }
   .full:last-child{
     width: 92.5%;
     float: none;
+    font-size: 16px;
   }
 }
 
@@ -51,9 +53,11 @@ h1{
     width: 90%;
     float: none;
     margin-top: 2%;
+    font-size: 16px;
   }
   .full:last-child{
     width: 90%;
     margin-top: 2%;
+    font-size: 16px;
   }
 }
