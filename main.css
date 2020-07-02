@@ -16,6 +16,7 @@ h1{
   background-color: #f1f1f1;
   border: 2px solid black;
   overflow: hidden;
+  font-size: 16px;
 }
 .full p{
   padding: 40px 20px 20px 20px;
